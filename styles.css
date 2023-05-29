@@ -169,7 +169,7 @@ header {
 .comment-3 p,
 .comment-4 p,
 .comment-5 p {
-  text-align: justify;
+  text-align: start;
   margin-top: 20px;
 }
 
